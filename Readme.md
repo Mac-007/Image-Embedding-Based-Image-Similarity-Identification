@@ -226,13 +226,13 @@ It’s a common metric for comparing embeddings (numerical feature vectors) in t
 
 #### Formula
 
-\[
-\text{similarity}(A, B) = \frac{A \cdot B}{\|A\| \times \|B\|}
-\]
+**Cosine Similarity Formula**
+
+similarity(A, B) = (A · B) / (‖A‖ × ‖B‖)
 
 Where:
-- \( A \cdot B \) is the **dot product** of the two vectors  
-- \( \|A\| \) and \( \|B\| \) are the **magnitudes (norms)** of the vectors  
+- A · B → dot product of the two vectors  
+- ‖A‖, ‖B‖ → magnitudes (norms) of the vectors
 
 #### Range
 
