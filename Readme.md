@@ -198,7 +198,8 @@ Image_Embedding_Based_Image_Similarity_Identification
 
 ```
 
-#### 3.query_image_similarity.py
+[3. query_image_similarity.py](./3.query_image_similarity.py)
+
 
 **Purpose:** Given a single query image (e.g., a product photo), find the most visually similar image in a folder.
 
@@ -282,4 +283,4 @@ They transform raw pixel data into feature-rich vectors that can be used in a wi
 
 - **Author**: `Dr. Amit Chougule, PhD` 
 
-- ### Email: [amitchougule121@gmail.com](mailto:amitchougule121@gmail.com)
+- #### Email: [amitchougule121@gmail.com](mailto:amitchougule121@gmail.com)
