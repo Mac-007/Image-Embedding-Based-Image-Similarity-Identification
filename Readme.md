@@ -1,4 +1,4 @@
-# Image Similarity Toolkit using Google SigLIP
+# Unified Image Similarity, Visual Search, and Top-k Retrieval Framework using SigLIP
 
 ### Author: `Dr.Amit Chougule, PhD` 
 ---
@@ -198,8 +198,7 @@ Image_Embedding_Based_Image_Similarity_Identification
 
 ```
 
-[3. query_image_similarity.py](./3.query_image_similarity.py)
-
+#### 3.query_image_similarity.py
 
 **Purpose:** Given a single query image (e.g., a product photo), find the most visually similar image in a folder.
 
